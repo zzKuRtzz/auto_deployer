@@ -1,0 +1,21 @@
+{
+  "repositories":
+  [{
+    "project_name": "project_name_github",
+    "path": "/your/directory/projects/repository/project_name_github",
+    "branch": "master",
+    "type_archive": ["zip", "tar.gz"]
+  },
+  {
+      "project_name": "/project_name_github_2",
+      "path": "/your/directory/projects/repository/project_name_github_2",
+      "branch": "master",
+      "type_archive": ["zip"]
+  },
+  {
+      "project_name": "/project_name_github_3",
+      "path": "/your/directory/projects/repository/project_name_github_3",
+      "branch": "master",
+      "type_archive": ["tar.gz"]
+  }]
+}
